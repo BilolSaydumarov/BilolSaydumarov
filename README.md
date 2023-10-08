@@ -13,7 +13,8 @@
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
     <a href="https://twitter.com/rikadollla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikadollla" height="30" width="40" /></a>
-    <a href="https://t.me/RikuDollla" target="blank"><img align="center" src="https://icons8.ru/icon/pQxnPIlaBeFy/телеграм" alt="rikadollla" height="30" width="40" /></a>
+    <a href="https://t.me/RikuDollla" target="blank"><img align="center" src="![image](https://github.com/BilolSaydumarov/BilolSaydumarov/assets/113057147/70ef157d-169b-44b5-898b-85d6142ebade)
+" alt="rikadollla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
