@@ -1,5 +1,6 @@
 <h1 align="center">Привет 👋, я Сайдумаров Билолиддин</h1>
 <h3 align="center">Увлеченный фронтенд-разработчик из Узбекистана</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilolsaydumarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilolsaydumarov" /> </p>
 
